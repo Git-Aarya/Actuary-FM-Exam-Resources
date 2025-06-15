@@ -1,27 +1,5 @@
 # actuarial-fm-exam-prep
 
-<p align="center">
-  <img src="https://www.soa.org/49344f/globalassets/assets/images/logos/soa-logo-blue-new.svg" alt="SOA Logo" width="200"/>
-</p>
-
-<p align="center">
-  <strong>Your comprehensive, community-driven guide to mastering the Society of Actuaries (SOA) Exam FM.</strong>
-</p>
-
-<p align="center">
-    <a href="https://github.com/Git-Aarya/Actuary-FM-Exam/stargazers">
-        <img src="https://img.shields.io/github/stars/Git-Aarya/Actuary-FM-Exam.svg?style=social&label=Star" alt="GitHub stars">
-    </a>
-    <a href="https://github.com/Git-Aarya/Actuary-FM-Exam/network/members">
-        <img src="https://img.shields.io/github/forks/Git-Aarya/Actuary-FM-Exam.svg?style=social&label=Fork" alt="GitHub forks">
-    </a>
-    <a href="https://github.com/Git-Aarya/Actuary-FM-Exam/issues">
-        <img src="https://img.shields.io/github/issues/Git-Aarya/Actuary-FM-Exam.svg" alt="GitHub issues">
-    </a>
-</p>
-
----
-
 ## 🎯 About This Repository
 
 This repository is designed to be a central hub for all aspiring actuaries preparing for the Financial Mathematics (FM) exam. It aims to provide a structured collection of study materials, practice problems, and helpful resources to aid in your journey to becoming a credentialed actuary.
