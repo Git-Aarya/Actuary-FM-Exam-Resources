@@ -1,4 +1,4 @@
-# actuarial-fm-exam-prep
+# Actuary FM Exam
 
 ## 🎯 About This Repository
 
