@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/your-username/actuarial-fm-exam-prep/stargazers">
-        <img src="https://img.shields.io/github/stars/your-username/actuarial-fm-exam-prep.svg?style=social&label=Star" alt="GitHub stars">
+    <a href="https://github.com/Git-Aarya/Actuary-FM-Exam/stargazers">
+        <img src="https://img.shields.io/github/stars/Git-Aarya/Actuary-FM-Exam.svg?style=social&label=Star" alt="GitHub stars">
     </a>
-    <a href="https://github.com/your-username/actuarial-fm-exam-prep/network/members">
-        <img src="https://img.shields.io/github/forks/your-username/actuarial-fm-exam-prep.svg?style=social&label=Fork" alt="GitHub forks">
+    <a href="https://github.com/Git-Aarya/Actuary-FM-Exam/network/members">
+        <img src="https://img.shields.io/github/forks/Git-Aarya/Actuary-FM-Exam.svg?style=social&label=Fork" alt="GitHub forks">
     </a>
-    <a href="https://github.com/your-username/actuarial-fm-exam-prep/issues">
-        <img src="https://img.shields.io/github/issues/your-username/actuarial-fm-exam-prep.svg" alt="GitHub issues">
+    <a href="https://github.com/Git-Aarya/Actuary-FM-Exam/issues">
+        <img src="https://img.shields.io/github/issues/Git-Aarya/Actuary-FM-Exam.svg" alt="GitHub issues">
     </a>
 </p>
 
