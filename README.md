@@ -48,7 +48,7 @@ This repository will contain notes and practice problems organized according to 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Git-Aarya/Actuary-FM-Exam.git](https://github.com/Git-Aarya/Actuary-FM-Exam.git)
+    git clone https://github.com/Git-Aarya/Actuary-FM-Exam.git
     ```
 2.  **Navigate the folders:** The repository is organized by the chapters in the *Mathematical Interest Theory* textbook.
 3.  **Review the notes:** Each chapter folder will contain markdown files with detailed notes.
