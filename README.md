@@ -1,4 +1,4 @@
-# Actuary FM Exam
+# Actuary FM Exam Resources
 
 ## 🎯 About This Repository
 
