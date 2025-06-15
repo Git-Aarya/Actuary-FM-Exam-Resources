@@ -4,8 +4,6 @@
 
 This repository is designed to be a central hub for all aspiring actuaries preparing for the Financial Mathematics (FM) exam. It aims to provide a structured collection of study materials, practice problems, and helpful resources to aid in your journey to becoming a credentialed actuary.
 
-Whether you are just starting your preparation or are in the final stages of review, you will find valuable information here. Our goal is to create a collaborative environment where we can learn and grow together.
-
 ---
 
 ## 📚 Key Resources
